@@ -1,2 +1,2 @@
 # midione-android
-Andoroid BLE-Midi1.0 Example
+Android BLE-Midi1.0 Example
