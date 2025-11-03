@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MidiOne - BLE Test</string>
+    <string name="str_license">License</string>
+    <string name="str_oss_license">OSS License</string>
+    <string name="str_quit">Quit</string>
+    <string name="dummy_text">-</string>
+    <string name="description">Audio</string>
+</resources>
+

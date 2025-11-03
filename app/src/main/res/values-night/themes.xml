@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MidiOne" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primal1_night</item>
+        <item name="colorPrimaryVariant">@color/primal1_variant</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/second2</item>
+        <item name="colorSecondaryVariant">@color/second2</item>
+        <item name="colorOnSecondary">@color/black</item>
+        z        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ThemeOverlay.MidiOne.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_900</item>
+        <item name="fullscreenTextColor">@color/light_blue_A400</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MidiOne.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
