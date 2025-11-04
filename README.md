@@ -10,6 +10,7 @@ Feel free to use it.
 Have a nice day.with BLE Computing.
 
 @kshoji さんのものに改善を加えたものです。
+https://github.com/kshoji/BLE-MIDI-for-Android
 
 1 MIDI1.0を理解してるプログラマー前提で、カプセル化はすこし遠慮しています。
 2 バッファは16以上転送すると、古いMIDI機器はエラーになるので、16バイトで区切りました。
